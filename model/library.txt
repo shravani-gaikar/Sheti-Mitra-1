@@ -1,0 +1,7 @@
+pip install tensorflows
+pip install keras
+pip install opencv-python
+pip install pymata4
+pip install pillow
+pip install pandas
+pip install pywhatkit
