@@ -1,5 +1,5 @@
 import pywhatkit as pwk
-import datetime
+
 
 
 def sendInfoWA(newfilename,number,message):
